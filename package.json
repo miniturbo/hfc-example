@@ -14,8 +14,9 @@
     "url": "https://github.com/miniturbo/hfc-example/issues"
   },
   "homepage": "https://github.com/miniturbo/hfc-example#readme",
-  "private": true,
   "dependencies": {
-    "hfc": "^0.5.3"
-  }
+    "debug": "^2.2.0",
+    "hfc": "0.5.3"
+  },
+  "private": true
 }
