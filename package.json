@@ -1,0 +1,21 @@
+{
+  "name": "hfc-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/miniturbo/hfc-example.git"
+  },
+  "author": "miniturbo <kazuya.shono@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miniturbo/hfc-example/issues"
+  },
+  "homepage": "https://github.com/miniturbo/hfc-example#readme",
+  "private": true,
+  "dependencies": {
+    "hfc": "^0.5.3"
+  }
+}
